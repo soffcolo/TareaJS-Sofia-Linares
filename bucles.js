@@ -27,3 +27,12 @@ for(a=1;a<=5;a++){
 }
 console.log(`la suma total es: ${m}`);
 console.log (`El promedio es: ${m/5}`);
+
+// Ejercicio 4 
+
+var x= 4;
+
+do{
+document.write("este es el numero" + x + "<br>");
+x++;
+}while(x<=10);
